@@ -1,0 +1,5 @@
+[gerrit]
+host=scm.4ggogo.com
+port=2222
+project=open/gerrit-test.git
+defaultbranch=master

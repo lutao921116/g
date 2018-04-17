@@ -1,2 +1,0 @@
-LICENSE LICENSE
-Git has a mutable index called stage.
